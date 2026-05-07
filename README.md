@@ -1,41 +1,55 @@
-```markdown
-# SQL Exploratory Data Analysis (EDA) Project
+<div align="center">
 
-## Overview
-This project was completed as part of a Udemy SQL course focused on Exploratory Data Analysis (EDA) and Advanced SQL Analysis.  
-The project demonstrates how SQL can be used to explore databases, analyze business data, and generate meaningful insights from sales and customer datasets.
+# SQL Exploratory Data Analysis (EDA)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=SQL+Exploratory+Data+Analysis;Business+Data+Analysis+Using+SQL;Advanced+SQL+Analysis+Project" />
 
 ---
 
-# Work Completed
+### A complete SQL EDA project focused on business analysis and advanced SQL concepts
 
-- Database Exploration
-- Dimension Analysis
-- Data Exploration
-- Measure Exploration
-- Magnitude Analysis
-- Ranking analysis 
+---
 
-## Sales & Business Analysis
-- Total sales analysis
-- Revenue analysis
-- Product performance analysis
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-EDA_&_Analytics-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tool-SSMS-purple?style=for-the-badge" />
+
+</div>
+
+---
+
+## Project Work
+
+### Database Exploration
+- Exploring database schemas
+- Understanding fact and dimension tables
+- Working with relational databases
+
+---
+
+### Dimension & Data Exploration
 - Customer analysis
-- Category-wise sales analysis
-- Quantity and profit analysis
+- Product analysis
+- Sales data exploration
+- Measure exploration
+- Magnitude analysis
+- Ranking analysis
 
-## Advanced EDA
+---
+
+### Advanced EDA
 - Time-series analysis
-- Yearly and monthly trend analysis
+- Monthly and yearly sales trends
 - Running totals and cumulative analysis
-- Ranking analysis using window functions
-- Customer segmentation
 - KPI analysis
+- Customer segmentation
 - Comparative business analysis
 
 ---
 
-# SQL Concepts Used
+## SQL Concepts Used
+
 - SELECT Statements
 - WHERE Clauses
 - GROUP BY & ORDER BY
@@ -49,34 +63,30 @@ The project demonstrates how SQL can be used to explore databases, analyze busin
 
 ---
 
-# Tools & Technologies
+## Tools & Technologies
+
 - SQL
 - SQL Server Management Studio (SSMS)
 - Relational Databases
 
 ---
 
-# Learning Outcomes
-Through this project, I improved my understanding of:
-- SQL query writing
+## Learning Outcomes
+
+- SQL Query Writing
 - Exploratory Data Analysis (EDA)
-- Business data analysis
-- Data aggregation and reporting
-- Advanced SQL analytical techniques
-- Working with structured relational datasets
+- Business Data Analysis
+- Data Aggregation and Reporting
+- Advanced SQL Techniques
 
 ---
 
-# Project Status
-Completed ✅
+## Course Reference
 
----
-
-# Author
-Jarin Akther
-
----
-
-# Course Reference
 Udemy SQL Exploratory Data Analysis (EDA) & Advanced SQL Analysis Course
-```
+
+---
+
+## Author
+
+Jarin Akther
